@@ -1,0 +1,36 @@
+/* *{
+  padding: auto;
+        margin: 0;
+        box-sizing: border-box;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: rgb(176, 193, 193);
+}
+.counter-container{
+    width: 50px;
+    height: 50px;
+ text-align:inline;
+    padding: 100PX;
+    padding-top: 200px;
+    padding-left: 300px;
+   display: grid;
+    place-items: center;
+    display: inline-block;
+   
+}
+.counter-container{
+    text-shadow: 90mm;
+    text-align: justify;
+
+} */
+/* #green{
+    width: 100%;
+    height: 100%;
+    background-color: aqua;
+    cursor: pointer;
+    transform: matrix3d(34);
+}
+#red{
+    width: 1350px;
+    height: 60px;
+
+} */
